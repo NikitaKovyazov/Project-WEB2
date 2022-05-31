@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="assets/css/John_style.css">
+	<link href="https://fonts.googleapis.com/css?
+	family=Kaushan+Script|Montserrat:400,7008amp;subset=cyrillic-ext"
+	rel="stylesheet">
+	<title>John</title>
+</head>
+<body>
+
+<header class="header">
+	<div class="container">
+		<div class="header__inner">
+			<div class="header__logo">Man Style</div>
+			
+			<nav class="nav">
+				
+				<a class="nav__link" href="index.html">Главная страница</a>
+				
+			</nav>
+		</div>
+	</div>
+</header>
+
+
+
+<div class="section__header">
+			<h2 class="section__title">Костюм "Marcus"</h2>
+			<div class="section__text">
+				<p>Костюм из премиального хлопка, который прослужит вам много лет.</p>
+				
+			</div>
+		</div>
+<div class="fig"><img src="assets/images/1ю2.jpg" alt="">
+</div>
+
+<div class="section__header">
+<h2 class="section__title">Состав ткани</h2>
+<p class="section__title">100% Шерсть Sicilian Grey</p>
+<p class="section__title">136 000 рублей</p>
+</div>

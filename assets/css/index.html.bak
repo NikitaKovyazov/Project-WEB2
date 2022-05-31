@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="assets/css/style.css">
+	<link href="https://fonts.googleapis.com/css?
+	family=Kaushan+Script|Montserrat:400,7008amp;subset=cyrillic-ext"
+	rel="stylesheet">
+	<title>Главная страница</title>
+</head>
+<body>
+
+<header class="header">
+	<div class="container">
+		<div class="header__inner">
+			<div class="header__logo">Man Style</div>
+			
+			<nav class="nav">
+				<a class="nav__link" href="#">Информация о нас</a>
+				<a class="nav__link" href="#">Каталог</a>
+				<a class="nav__link" href="#">Контакты</a>
+			</nav>
+		</div>
+	</div>
+</header>
+
+<div class="intro">
+	<div class="container">
+		<div class="intro__inner">
+		<h2 class="intro__suptitle"></h2>
+		<h1 class="intro__title">Welcome to Man Style</h1>
+		
+		<a class="btn" href="#">Каталог</a>
+		</div>
+	</div>
+	
+	<div class="slider">
+		<div class="container">
+			<div class="slider__inner">
+				<div class="slider__item active">
+					<span class="slider__num">01</span>
+					intro
+				</div>
+				<div class="slider__item active">
+					<span class="slider__num">02</span>
+					intro
+				</div>
+				<div class="slider__item active">
+					<span class="slider__num">03</span>
+					intro
+				</div>
+				<div class="slider__item active">
+					<span class="slider__num">04</span>
+					intro
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<section class="section">
+	<div class="container">
+		
+		<div class="section__header">
+			<h2 class="section__title">Информация о нас</h2>
+			<div class="section__text">
+				<p>Компания Man Style была основана в 1860 году, в Берлине. Ее основатель - Ковязов Никита - великий стилист, которого знает вся элита мира. С тех самых пор к нему обращаются правительственные чиновники, деятели наук, актёры, певцы и многие другие.</p>
+				
+			</div>
+		</div>
+		
+		<div class="about">
+			<div class="about__item">
+				<div class="about__img">
+					<img src="assets/images/1ю1.jpg" alt="">
+				</div>
+				<div class="about__text">John</div>
+			</div>
+			<div class="about__item">
+				<div class="about__img">
+					<img src="assets/images/1ю2.jpg" alt="">
+				</div>
+				<div class="about__text">Marcus</div>
+			</div>
+			<div class="about__item">
+				<div class="about__img">
+					<img src="assets/images/1ю3.jpg" alt="">
+				</div>
+				<div class="about__text">Alex</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<div class="statistics">
+	<div class="container">
+		<div class="stat">
+			<div class="stat__item">
+			<div class="stat__count">7826</div>
+			<div class="stat__text">Костюмов продано</div>
+			</div>
+
+			<div class="stat__item">
+				<div class="stat__count">3410</div>
+				<div class="stat__text">Клиентов остались довольными</div>
+			</div>
+			
+			<div class="stat__item">
+				<div class="stat__count">210</div>
+				<div class="stat__text">Мастеров трудятся</div>
+			</div>
+			
+			<div class="stat__item">
+				<div class="stat__count">162</div>
+				<div class="stat__text">Года успешной работы</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<section class="section">
+	<div class="container">
+		<div class="section__header">
+			<h2 class="section__title">Как мы работаем</h2>
+			<div class="mast"></div>
+
+		</div>
+	</div>
+</section>>
+
+
+<section class="section">
+	<div class="container">
+		<div class="section__header">
+			<h2 class="section__title">Контакты</h2>
+			<p>e-mail: kovyazov2014@gmail.com</p>
+			<p>Мобильный телефон: +7 (918) 474-26-16</p>
+
+		</div>
+	</div>
+</section>>
+
+</body>
+ 
